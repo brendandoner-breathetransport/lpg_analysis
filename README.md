@@ -1,6 +1,6 @@
 This repo is intended to help push clean energy forward, reduce air pollution, reduce deforestation and ultimetly help the health of our planet and the humans living on it. 
 
-Please contact me at info@breathetransport.com for any questions or if you would like to collaborate. 
+Please contact me at info@breathetransport.com for any questions or if you would like to collaborate. You can also checkout what I am working on in the hydrogen space at www.breathetransport.com or follow me on Medium at medium.com/@brendandoner. Check out the analysis writeup for this repo at https://medium.com/@brendandoner/can-propane-save-lives-1d5832d23fe4.
 
 Within the repo you will find models and notebooks that analyze the relationship between:
 
