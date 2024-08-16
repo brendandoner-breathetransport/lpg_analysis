@@ -1,4 +1,6 @@
-This repo is intended to help push clean energy forward and reduce air pollution. Please contact me at info@breathetransport.com for any questions or if you would like to collaborate. 
+This repo is intended to help push clean energy forward, reduce air pollution, reduce deforestation and ultimetly help the health of our planet and the humans living on it. 
+
+Please contact me at info@breathetransport.com for any questions or if you would like to collaborate. 
 
 Within the repo you will find models and notebooks that analyze the relationship between:
 
