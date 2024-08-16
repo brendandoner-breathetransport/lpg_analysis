@@ -9,4 +9,5 @@ Within the repo you will find models and notebooks that analyze the relationship
 3. Propane demand and deforestation (public data: Normalized Density Vegetation Index, i.e. NDVI, from the MODIS satellite mission https://www.earthdata.nasa.gov/)
 
 Best,
+
 Brendan Doner
